@@ -34,3 +34,9 @@ if ($score === count($questions)) {
     echo "Better luck next time!\n";
 }
 ?>
+git init
+ README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/pranob-halder/quiz2.git
+git push -u origin main
